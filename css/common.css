@@ -1,0 +1,22 @@
+.article{
+	width: 98%;
+	margin-right: 40px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid #c8c8c8;
+	margin-bottom: 20px;
+	padding: 7px;
+	border-radius: 3px;
+	box-shadow: 0 2px 3px #ccc;
+	background-color: white;
+	*display:inline;
+    zoom:1;
+}
+#featured{
+	position: relative;
+}
+#featuredico{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
